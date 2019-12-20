@@ -1,24 +1,12 @@
-# README
+# wcp4-1_CARAVAN
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+| Index | Subject                                        | Status |                             Link                             |
+| :---- | :--------------------------------------------- | :----: | :----------------------------------------------------------: |
+| 4-8   | 課題：アプリケーションを作成してみよう：基礎編 |  Done  | [wcp4-2_bookers](https://github.com/craymaru/wcp4-2_bookers) |
+| 4-7   | 削除機能を作ろう                               |  Done  |                                                              |
+| 4-6   | 編集機能を作ろう                               |  Done  |                                                              |
+| 4-5   | 詳細ページを作ろう                             |  Done  |                                                              |
+| 4-4   | Blog 部分を書き換えよう                        |  Done  |                                                              |
+| 4-3   | 投稿機能を作ろう                               |  Done  |                                                              |
+| 4-2   | TOP ページを作ろう                             |  Done  |                                                              |
+| 4-1   | CARAVAN に機能を追加しよう                     |  Done  |                                                              |
